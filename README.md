@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @8bitniksis
 - 👀 I’m interested in Game Develop, VR develop, AR develop
 - 🌱 I’m currently learning C# and VR 
+- 💻 I"m currently working on vr sdk
 - 📫 How to reach me norgardoff@gmail.com
 
 <!---
