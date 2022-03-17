@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Nikita
 #### I am witcher and c# coder
-![I am witcher and c# coder](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
+#### [I am witcher and c# coder]
 I like to play Gwint and the Witcher, I also write my own set of tools for Unity in C#
 
 Skills: C# / Unity / VR / HLSL
