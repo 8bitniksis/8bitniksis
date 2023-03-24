@@ -9,5 +9,4 @@ Skills: C# / Unity / VR / HLSL
 - 🌱 I’m currently learning DXR 
 - 🤔 I’m looking for help with HLSL 
 - 💬 Ask me about C# and Gwent 
-- 📫 How to reach me: zalesov.anatoly@yandex.ru 
 - ⚡ Fun fact: Like drinks enegry  
