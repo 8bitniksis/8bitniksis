@@ -6,7 +6,7 @@ I like to play Gwint and the Witcher, I also write my own set of tools for Unity
 Skills: C# / Unity / VR / HLSL
 
 - 🔭 I’m currently working on Toolkit for Unity 
-- 🌱 I’m currently learning DXR 
+- 🌱 I’m currently learning DXR, Unity rendering system
 - 🤔 I’m looking for help with HLSL 
-- 💬 Ask me about C# and Gwent 
+- 💬 Ask me about C# and HLSL
 - ⚡ Fun fact: Like drinks enegry  
