@@ -7,7 +7,7 @@ Unity/Graphics proggrammer
 I am a unity/graphics developer. My path to it began with the development and release of a VR simulator. After the release of the simulator, there was a gap of a couple of years where I tried myself in many areas related to graphics, but most of all I was hooked by Realtime PBR graphics! From February 2019 to the present time, I have been studying writing graphics on Unity. I am currently looking for a job!
 
 * 🌍  I'm based in Russia
-* 🖥️  See my portfolio at [ArtStation](http://https://www.artstation.com/gervand)
+* 🖥️  See my portfolio at [ArtStation](https://www.artstation.com/gervand)
 * ✉️  You can contact me at [nik.zalesoff@yandex.ru](mailto:nik.zalesoff@yandex.ru)
 * 🚀  I'm currently working on [Rendering](http://github.com/Levelimme/Lilac.RenderingSRP)
 * 🧠  I'm learning HLSL, C#, Realtime Graphics
