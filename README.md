@@ -8,6 +8,7 @@ I am a unity/graphics developer. My path to it began with the development and re
 
 * 🌍  I'm based in Russia
 * 🖥️  See my portfolio at [ArtStation](https://www.artstation.com/gervand)
+* :notebook:  See my gist's at [Gist](https://gist.github.com/8bitniksis)
 * ✉️  You can contact me at [nik.zalesoff@yandex.ru](mailto:nik.zalesoff@yandex.ru)
 * 🚀  I'm currently working on [Rendering](http://github.com/Levelimme/Lilac.RenderingSRP)
 * 🧠  I'm learning HLSL, C#, Realtime Graphics
